@@ -1,0 +1,16 @@
+.scoreDisplay{
+    font-weight: bold;
+    font-size: x-large;
+}
+#backdrop{
+    position: absolute;
+    top:0px;
+    height: 575px;
+    z-index: -1;
+    position: absolute;
+    background-position-x: center;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    opacity: .25;
+    background-size: contain;
+}
