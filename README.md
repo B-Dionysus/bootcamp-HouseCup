@@ -4,7 +4,7 @@ I liked the scoreboard that Dave designed (https://raptorcentauri.github.io/Hous
 
 This version
 
-* Sorts baed on score
+* Sorts based on score
 * Displays team icons in pleasing pyramid shape
 * Increases size of icons based on proximity to winning score
 * Displays an enormous, ominous backdrop of the winning icon 
