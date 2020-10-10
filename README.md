@@ -10,3 +10,5 @@ This version
 * Displays an enormous, ominous backdrop of the winning icon 
 
 The backdrop looks ok with AOL, but in my oipinion it would look much nicer with the winAmp logo. (:
+
+![demo screen cap](https://github.com/B-Dionysus/bootcamp-HouseCup/blob/main/assets/houseCupDemoScreen.PNG?raw=true)
