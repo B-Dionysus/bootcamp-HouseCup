@@ -2,7 +2,7 @@
 
 I liked the scoreboard that Dave designed (https://raptorcentauri.github.io/HouseCup-FrontEnd/) but it didn't sort the houses in order of score.
 
-This version
+This version (https://b-dionysus.github.io/bootcamp-HouseCup/)
 
 * Sorts based on score
 * Displays team icons in pleasing pyramid shape
